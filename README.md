@@ -35,9 +35,9 @@ Most of my work lives in the development sector, where I've seen firsthand how d
 
 #### 📊 GitHub
 
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajiadebayo&show_icons=true&hide_border=true&count_private=true)
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajiadebayo&show_icons=true&theme=dark)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajiadebayo&layout=compact&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajiadebayo&layout=compact&theme=dark)
 
 ---
 
